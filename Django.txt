@@ -1,1 +1,3 @@
-Hi i am your new Django Partner
+Hi i am your new Django Partner.
+Thank you for being with me.
+I will be forever grateful.
